@@ -36,6 +36,7 @@ Once the full images were exported, I set up a Google Cloud bucket for storage a
 ## Model Implementation  
 
 Once the data is in the GCP buckets with a consistent naming scheme, it can then be pulled back into Colab to train a model. It is useful, if possible, to initialize the weights of the model based on a previous model, as that will allow for faster training. It is also possible to apply transfer learning with this kind of problem, which is essentially retraining the final layers of a model on new training data. Although this project did not focus on transfer learning, it is something to consider for the future. The basic code outline for the model can be found [here](https://colab.research.google.com/drive/1HhO45GIW1zwEXomkEq-9NaHphisHwpDP?usp=sharing).
+
 ---
 
 ## Useful Resources  
