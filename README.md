@@ -32,7 +32,3 @@ Through the research process for this project, I found many valuable resources a
 - [Colab notebook walking through a basic classification process](https://colab.research.google.com/github/climatechange-ai-tutorials/aquaculture-mapping/blob/main/Aquaculture_Mapping_Detecting_and_Classifying_Aquaculture_Ponds_using_Deep_Learning.ipynb#scrollTo=rSRCNgYzUwaf)
 - [Vertex AI Guides](https://developers.google.com/earth-engine/guides/ml_examples)
 - [Guide to Earth Engine and PyTorch CNN (Pixel-Based)](https://colab.research.google.com/github/google/earthengine-community/blob/master/guides/linked/Earth_Engine_PyTorch_Vertex_AI.ipynb)
-
-
-### Addendum: Palm Classification
-The palm plantation data that exists for this project 
