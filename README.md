@@ -17,7 +17,9 @@ In terms of modeling platforms, most of the experts I talked to, as well as the 
 
 ### Data Collection and GCP Set Up
 
-I used an NDVI composite in Google Earth Engine to get a relatively cloud-free image for my 
+I used an NDVI composite in Google Earth Engine to get a relatively cloud-free image for my model. I then selected four quadrants in different areas of the country to take data from. I chose these quadrants because they had cloud-free imagery, contained representative samples of topography, and had a mix of plantation and non-plantation cover. The shapefiles for the quadrants can be found in the shapefiles folder. I exported the Sentinel-2 imagery for each of the regions with red, green, blue, near-infrared, and short-wave infrared bands, as well as NDVI, NDWI, SAVI, and NDMI indices. Finally, I rasterized the feature collection containing the plantation locations and exported the masks of the regions to use as labels in the model. The full Google Earth Engine code can be found [here](https://code.earthengine.google.com/0d678008835c1601629c868fcc5240a1).
+
+Once the ful images were exported, I set up a Google Cloud bucket for storage and made a folder for each quadrant for both the Sentinel images and the mask images. I then used the rasterio library and the Google Drive and GCP integration features of Colab to chip the larger images into 128 x 128 chips, which I then exported into the folders in my bucket. The code for this step can be found in the  
 
 ### Useful Resources
 Through research process for this project, I found many valuable resources and met with researchers across the realms of spatial data and deep learning. I've attached a document with the most relevant notes from those meetings, and have linked several useful resources below. 
