@@ -11,7 +11,7 @@ This is a project that I began working on last spring quarter, advised by Aly Si
 ### Data Collection and GCP Set Up
 
 ### Useful Resources
-Through research process for this project, I found many valuable resources and met with researchers across the realms of spatial data and deep learning. I've attached a document with notes from those meetings, and have linked several useful resources below. 
+Through research process for this project, I found many valuable resources and met with researchers across the realms of spatial data and deep learning. I've attached a document with the most relevant notes from those meetings, and have linked several useful resources below. 
 
 - [Consultation Notes](https://docs.google.com/document/d/1puVxFoWywQZErhmyTF4738MD0djCUVpMdM4hhl3lGUM/edit?usp=sharing)
 - [Github Repository on Satellite Data + Deep Learning](https://github.com/satellite-image-deep-learning)
