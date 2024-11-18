@@ -13,10 +13,11 @@ This is a project that I began working on last spring quarter, advised by Aly Si
 ### Useful Resources
 Through research process for this project, I found many valuable resources and met with researchers across the realms of spatial data and deep learning. I've attached a document with notes from those meetings, and have linked several useful resources below. 
 
-Consultation Notes: \
-Github Repository on Satellite Data + Deep Learning: https://github.com/satellite-image-deep-learning \
-Colab notebook walking through a basic classification process: https://colab.research.google.com/github/climatechange-ai-tutorials/aquaculture-mapping/blob/main/Aquaculture_Mapping_Detecting_and_Classifying_Aquaculture_Ponds_using_Deep_Learning.ipynb#scrollTo=rSRCNgYzUwaf \
-Vertex AI guiges: https://developers.google.com/earth-engine/guides/ml_examples \
-Guide to Earth Engine and PyTorch CNN: https://colab.research.google.com/github/google/earthengine-community/blob/master/guides/linked/Earth_Engine_PyTorch_Vertex_AI.ipynb 
+- [Consultation Notes](https://docs.google.com/document/d/1puVxFoWywQZErhmyTF4738MD0djCUVpMdM4hhl3lGUM/edit?usp=sharing)
+- [Github Repository on Satellite Data + Deep Learning](https://github.com/satellite-image-deep-learning)
+- [Colab notebook walking through a basic classification process](https://colab.research.google.com/github/climatechange-ai-tutorials/aquaculture-mapping/blob/main/Aquaculture_Mapping_Detecting_and_Classifying_Aquaculture_Ponds_using_Deep_Learning.ipynb#scrollTo=rSRCNgYzUwaf)
+- [Vertex AI Guides](https://developers.google.com/earth-engine/guides/ml_examples)
+- [Guide to Earth Engine and PyTorch CNN (Pixel-Based)](https://colab.research.google.com/github/google/earthengine-community/blob/master/guides/linked/Earth_Engine_PyTorch_Vertex_AI.ipynb)
+
 
 ### Addendum: Palm Classification
