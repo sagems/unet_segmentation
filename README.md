@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/76abe890-5ef0-4892-b0f8-664a163ae054)# Satellite Image Segmentation with U-Net Model and Sentinel-2 Data  
+# Satellite Image Segmentation with U-Net Model and Sentinel-2 Data  
 
 **Sage McGinley-Smith**  
 *Mordecai Lab, Stanford University*  
