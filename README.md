@@ -42,7 +42,8 @@ Although there is much more to say about deep learning and CNNs, for this partic
 Possible future directions for this project include: 
 -	Exploring the potential for transfer learning on pretrained foundational models. Transfer learning is the process of retraining the last layers of a pretrained model on a particular dataset to leverage the similarities between image data of all sorts. This reduces training time and resources and improves generalizability. 
 -	Earth Genome Earth Index: Once released globally in the spring, employ Earth Index to identify areas of pineapple plantation growth and distribution. Find more information about Earth Genome here.
--	Prediction: After a final model has been settled on, the raw images from 2020-2023 can be chipped up and classified to form the final dataset.  
+-	Prediction: After a final model has been settled on, the raw images from 2020-2023 can be chipped up and classified to form the final dataset.
+-	Multi Class segmentation: To change the model to perform multi-class segmentation, modify the final layer of the model to predict for multiple classes.
 
 Through the research process for this project, I found many valuable resources and met with researchers across the realms of spatial data and deep learning. I've attached a document with the most relevant notes from those meetings, and have linked several useful resources below. 
 
