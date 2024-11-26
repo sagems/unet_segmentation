@@ -35,7 +35,7 @@ By contrast, **deep learning** models are advanced machine learning systems that
 
 Although there is much more to say about deep learning and CNNs, for this particular project, it is most important to understand the U-Net model. The **U-Net model is a kind of CNN** that is often used to identify and outline specific regions in pictures, such as tissues in biomedical images, or pineapple plantations in satellite images. It works by first "zooming out" and expanding the images to have more channels, and then "zooming in" to output a final mask segmenting the image into different classifications. In the case of this project, the final mask image is binary, representing areas classified as pineapple plantations and non-pineapple plantations. I find this [youtube series](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF&index=1), which is the basis for the deep learning class I took this fall, very useful in explaining the concept of a CNN as it applies to image segmentation. Ultimately, the most important takeaway about CNNs vs traditional machine learning is that they **consider pixels in context, rather than as isolated data points**. An example U-Net architecture with biomedical image analysis is pictured below. 
 ![Project Screenshot](images/unet.png)
-
+ 
 ---
 ## Section 4: Resources and Future Directions
 
